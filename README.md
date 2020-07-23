@@ -14,3 +14,7 @@ Here's our repository for TDA project for Neuromatch Academy. Exploring persiste
 [Steimetz Dataset: Colab Notebook - Decisions](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/load_steinmetz_decisions.ipynb) 
 
 [Steimetz Dataset: Colab Notebook - Extra](https://colab.research.google.com/github/NeuromatchAcademy/course-content/blob/master/projects/load_steinmetz_extra.ipynb)
+
+**Papers** 
+
+**Theory**
