@@ -3,6 +3,10 @@ Here's our repository for TDA project for Neuromatch Academy. Exploring persiste
 
 ## Links
 
+**Suggested Projects Descriptions**
+
+[Possible projects](https://mfr.ca-1.osf.io/render?url=https://osf.io/9j38s/?direct%26mode=render%26action=download%26mode=render)
+
 **Proposal**
 
 [Proposal](https://docs.google.com/document/d/12RBQLW_u0CMhRB4n950E8Ai08Q1VgVTjyCciFMvsnuU/edit)
@@ -18,3 +22,7 @@ Here's our repository for TDA project for Neuromatch Academy. Exploring persiste
 **Papers** 
 
 **Theory**
+
+[VIDEO: Luca - HMM](http://scgp.stonybrook.edu/video_portal/video.php?id=4385)
+
+[VIDEO: Benjamin Dunn - Toroidal topology of grid cell ensemble activity](https://youtu.be/Hlzqvde3h0M)
